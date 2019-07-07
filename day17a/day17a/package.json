@@ -1,0 +1,9 @@
+{
+  "name": "day17a",
+  "version": "0.0.0",
+  "description": "day17a",
+  "main": "server.js",
+  "author": {
+    "name": "prhod_000"
+  }
+}
