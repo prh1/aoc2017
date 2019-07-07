@@ -1,0 +1,9 @@
+{
+  "name": "day21",
+  "version": "0.0.0",
+  "description": "day21",
+  "main": "app.js",
+  "author": {
+    "name": "hodgsonp"
+  }
+}
