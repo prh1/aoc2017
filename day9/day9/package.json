@@ -1,0 +1,9 @@
+{
+  "name": "day9",
+  "version": "0.0.0",
+  "description": "day9",
+  "main": "server.js",
+  "author": {
+    "name": "prhod_000"
+  }
+}
